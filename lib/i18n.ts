@@ -519,7 +519,7 @@ export const translations = {
         },
         {
           degree: "Diploma in English Language",
-          institution: "Fly Institute – Sana’a",
+          institution: "Fli Institute – Sana’a",
           period: "2024",
           description:
             "Intensive training in English communication and conversation skills.",
