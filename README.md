@@ -11,7 +11,7 @@ A modern and responsive personal portfolio website built with **React**, designe
 - 📞 Contact form integration  
 - 🌐 Multi-language support (Arabic / English)
 
----
+
 
 ## 🛠️ Tech Stack
 - **React** (Vite or Next.js if applicable)
@@ -21,7 +21,7 @@ A modern and responsive personal portfolio website built with **React**, designe
 - **Lucide React** for icons  
 - **EmailJS** or any API for contact form  
 
----
+
 
 ## 🧩 Project Structure
 ```
@@ -35,13 +35,13 @@ src/
 
 ````
 
----
+
 
 ## ⚙️ Setup & Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/aya711git/personal-portfolio.git
-````
+   ```
 
 2. Navigate to the project folder:
 
@@ -59,30 +59,17 @@ src/
    npm run dev
    ```
 
----
-
 ## 🧠 Future Improvements
 
 * Add a blog section ✍️
 * Integrate custom animations 💫
 * Add backend support for messages 📨
 
----
 
 ## 📩 Contact
 
 **Aya Khaled Khrais**
 🌐 [GitHub](https://github.com/aya711git)
-💼 Frontend Developer | Passionate about modern UI/UX
-
----
-
-⭐ *If you like this project, give it a star on GitHub!*
-
-```
-
----
-
-هل تودين أن أجعل النص بالعربية أيضًا (نسخة ثنائية اللغة) بحيث يظهر قسم عربي وقسم إنجليزي في نفس الـ README؟  
-سيبدو جميلًا جدًا خاصة أنه بورتفوليو شخصي.
-```
+📧[Email](aya.khuris@gmail.com)
+🖇️[LinkedIn](https://www.linkedin.com/in/aya-khaled-khuris/)
+💼 Frontend Developer | Passionate about modern UI/UX |AI
