@@ -76,14 +76,17 @@ src/
 
 
 ## 📩 Contact
-```
+
 **Aya Khaled Khrais**
 🌐 [GitHub](https://github.com/aya711git)
+
 📧[Email](aya.khuris@gmail.com)
+
 🖇️[LinkedIn](https://www.linkedin.com/in/aya-khaled-khuris/)
+
 💼 Frontend Developer | Passionate about modern UI/UX |AI Research
-```
----
+
+
 ✨ شكرًا لزيارتك، وأتمنى أن تجد في هذا المشروع فائدة وإلهامًا 💛  
 ✨ Thank you for visiting! I hope you find inspiration and value in this project 💛
 
