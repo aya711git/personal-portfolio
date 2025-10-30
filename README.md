@@ -26,12 +26,42 @@ A modern and responsive personal portfolio website built with **React**, designe
 ## 🧩 Project Structure
 ```
 
-src/
-├─ components/
-├─ pages/
-├─ assets/
-├─ styles/
-└─ utils/
+├── public/
+│   └── favicon.ico
+│   └── images/
+│       └── profile.png
+│   └── manifest.json
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── globals.css
+│   └── api/
+│       └── route.ts
+├── components/
+│   ├── Header.tsx
+│   ├── Footer.tsx
+│   ├── Navbar.tsx
+│   └── ui/
+│       └── button.tsx
+│       └── card.tsx
+├── lib/
+│   ├── utils.ts
+│   └── constants.ts
+├── styles/
+│   └── variables.css
+│   └── animations.css
+├── hooks/
+│   └── useTheme.ts
+│   └── useScroll.ts
+├── node_modules/
+├── package.json
+├── tsconfig.json
+├── postcss.config.mjs
+├── next.config.mjs
+├── tailwind.config.ts
+├── .gitignore
+└── README.md
+
 
 ````
 
@@ -78,6 +108,7 @@ src/
 ## 📩 Contact
 
 **Aya Khaled Khrais**
+
 🌐 [GitHub](https://github.com/aya711git)
 
 📧[Email](aya.khuris@gmail.com)
