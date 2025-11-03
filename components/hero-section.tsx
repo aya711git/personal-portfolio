@@ -22,7 +22,7 @@ export default function HeroSection() {
                   <ArrowDown className="h-5 w-5 group-hover:translate-y-1 transition-transform" />
                 </a>
               </Button>
-                <a href="/CV-Aya.pdf" target="_blank" rel="noopener noreferrer">
+                <a href="/Aya_Khuris_CV.pdf" target="_blank" rel="noopener noreferrer">
                   <Button
                     size="lg"
                     variant="outline"
