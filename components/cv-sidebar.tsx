@@ -70,7 +70,7 @@ export default function CVSidebar() {
               {t.profile.available}
             </Badge>
           </div>
-          <a href="/CV-Aya.pdf" download>
+          <a href="/Aya_Khuris_CV.pdf" download>
           <Button className="w-full" size="sm">
             <Download className={language === "ar" ? "ml-2 h-4 w-4" : "mr-2 h-4 w-4"} />
             {t.profile.downloadCV}
